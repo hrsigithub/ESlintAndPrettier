@@ -19,3 +19,4 @@ console.warn(hello_World);
 if (b === 2) {
   let a = 1;
 }
+let aa = 2;
