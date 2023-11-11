@@ -19,4 +19,7 @@ console.warn(hello_World);
 if (b === 2) {
   let a = 1;
 }
+<<<<<<< HEAD
 let aa = 2;
+=======
+>>>>>>> refs/remotes/origin/master
